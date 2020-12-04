@@ -61,7 +61,7 @@
       <option name="presentableId" value="Default" />
       <updated>1607082563968</updated>
       <workItem from="1607082565040" duration="45000" />
-      <workItem from="1607082681303" duration="1164000" />
+      <workItem from="1607082681303" duration="1973000" />
     </task>
     <task id="LOCAL-00001" summary="Aufgabe1/2">
       <created>1607082986282</created>
@@ -70,7 +70,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607082986282</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Server config">
+      <created>1607084601381</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1607084601381</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -89,13 +96,14 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Aufgabe1/2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Aufgabe1/2" />
+    <MESSAGE value="Server config" />
+    <option name="LAST_COMMIT_MESSAGE" value="Server config" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="552" y="178" key="#Deployment" timestamp="1607084587533">
+    <state x="552" y="178" key="#Deployment" timestamp="1607085403049">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="178" key="#Deployment/0.0.1920.1040@0.0.1920.1040" timestamp="1607084587533" />
+    <state x="552" y="178" key="#Deployment/0.0.1920.1040@0.0.1920.1040" timestamp="1607085403049" />
     <state x="536" y="165" key="#SSH_Configurations" timestamp="1607084442032">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -104,9 +112,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1607082886918" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1607082994224">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1607084607431">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1607082994224" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1607084607431" />
   </component>
 </project>
