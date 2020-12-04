@@ -19,7 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bfa959d4-54c1-4adf-8ac5-565c763a5b78" name="Default Changelist" comment="Abänderungen auf index.html">
+    <list default="true" id="bfa959d4-54c1-4adf-8ac5-565c763a5b78" name="Default Changelist" comment="Sidebar">
+      <change afterPath="$PROJECT_DIR$/sidebar.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -38,6 +39,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Pull.Settings">
+    <option name="BRANCH" value="main" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -50,7 +54,6 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../Webentwicklung" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -64,7 +67,7 @@
       <option name="presentableId" value="Default" />
       <updated>1607082563968</updated>
       <workItem from="1607082565040" duration="45000" />
-      <workItem from="1607082681303" duration="7513000" />
+      <workItem from="1607082681303" duration="10714000" />
     </task>
     <task id="LOCAL-00001" summary="Aufgabe1/2">
       <created>1607082986282</created>
@@ -115,7 +118,21 @@
       <option name="project" value="LOCAL" />
       <updated>1607090653087</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Sidebar">
+      <created>1607093069677</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1607093069677</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Sidebar">
+      <created>1607093079810</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1607093079810</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,24 +154,41 @@
     <MESSAGE value="Server config" />
     <MESSAGE value="Website index.html" />
     <MESSAGE value="Abänderungen auf index.html" />
-    <option name="LAST_COMMIT_MESSAGE" value="Abänderungen auf index.html" />
+    <MESSAGE value="Sidebar" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sidebar" />
   </component>
   <component name="WindowStateProjectService">
     <state x="552" y="178" key="#Deployment" timestamp="1607092224198">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="178" key="#Deployment/0.0.1920.1040@0.0.1920.1040" timestamp="1607092224198" />
+    <state x="667" y="163" key="#PHP" timestamp="1607095501382">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="667" y="163" key="#PHP/0.0.1920.1040@0.0.1920.1040" timestamp="1607095501382" />
     <state x="536" y="165" key="#SSH_Configurations" timestamp="1607089072012">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="536" y="165" key="#SSH_Configurations/0.0.1920.1040@0.0.1920.1040" timestamp="1607089072012" />
-    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1607090947388">
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1607096101554">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1607090947388" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1607090658254">
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1607096101554" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1607093638423">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1607090658254" />
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1607093638423" />
+    <state x="794" y="443" key="NewPhpFileDialog" timestamp="1607093395021">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="794" y="443" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1607093395021" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1607093085516">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1607093085516" />
+    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1607095834277">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1607095834277" />
   </component>
 </project>
