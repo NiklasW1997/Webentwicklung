@@ -3,7 +3,7 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="80a7f677-dcf9-4f16-ba80-b14eb2fb8aa6" name="Webentwicklung lokal" url="http://localhost">
-        <fileTransfer mountedRoot="C:\xampp\htdocs" accessType="MOUNT" port="0" />
+        <fileTransfer mountedRoot="C:\xampp\htdocs\Webentwicklung" accessType="MOUNT" port="0" />
       </webServer>
       <webServer id="e5f447d2-4296-454f-b93c-872429e33750" name="Webentwicklung online" url="http://files.000webhost.com">
         <fileTransfer host="files.000webhost.com" port="21">
