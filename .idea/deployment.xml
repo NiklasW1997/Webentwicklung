@@ -5,14 +5,14 @@
       <paths name="Webentwicklung lokal">
         <serverdata>
           <mappings>
-            <mapping deploy="/" local="$PROJECT_DIR$/../../../../Webentwicklung" web="/" />
+            <mapping deploy="/" local="$PROJECT_DIR$/../../../../public_html" web="/" />
           </mappings>
         </serverdata>
       </paths>
       <paths name="Webentwicklung online">
         <serverdata>
           <mappings>
-            <mapping deploy="/" local="$PROJECT_DIR$/../../../../Webentwicklung" web="/" />
+            <mapping deploy="/" local="$PROJECT_DIR$/../../../../public_html" web="/" />
           </mappings>
         </serverdata>
       </paths>
