@@ -19,13 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bfa959d4-54c1-4adf-8ac5-565c763a5b78" name="Default Changelist" comment="Alter Stand">
-      <change beforePath="$PROJECT_DIR$/.idea/Webentwicklung.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/public_html.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/webServers.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/webServers.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="bfa959d4-54c1-4adf-8ac5-565c763a5b78" name="Default Changelist" comment="Alter Stand" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -65,7 +59,7 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../public_html" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../Webentwicklung" />
     <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -86,6 +80,7 @@
       <workItem from="1607128452517" duration="1344000" />
       <workItem from="1607129868463" duration="247000" />
       <workItem from="1607130127041" duration="37000" />
+      <workItem from="1607133493068" duration="62000" />
     </task>
     <task id="LOCAL-00001" summary="Aufgabe1/2">
       <created>1607082986282</created>
@@ -213,10 +208,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="Alter Stand" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="552" y="178" key="#Deployment" timestamp="1607130163378">
+    <state x="552" y="178" key="#Deployment" timestamp="1607133554231">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="178" key="#Deployment/0.0.1920.1040@0.0.1920.1040" timestamp="1607130163378" />
+    <state x="552" y="178" key="#Deployment/0.0.1920.1040@0.0.1920.1040" timestamp="1607133554231" />
     <state x="637" y="201" key="#Options" timestamp="1607129075822">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -241,10 +236,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1607096101554" />
-    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1607130039184">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1607133551960">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1607130039184" />
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1607133551960" />
     <state x="794" y="443" key="NewPhpFileDialog" timestamp="1607093395021">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
